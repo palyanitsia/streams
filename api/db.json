@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "Warzone",
+      "description": "This game is dead",
+      "id": 1
+    },
+    {
+      "title": "Fifa 22",
+      "description": "Shit game also",
+      "id": 2
+    },
+    {
+      "title": "Just Chating",
+      "description": "blah blah blah",
+      "id": 3
+    },
+    {
+      "title": "program navigation",
+      "description": "Updated description",
+      "userId": "111693604608389073514",
+      "id": 5
+    },
+    {
+      "title": "CS 1.9",
+      "description": "CS GO shit stream",
+      "userId": "111693604608389073514",
+      "id": 6
+    },
+    {
+      "title": "React",
+      "description": "Keep on grinding",
+      "userId": "111693604608389073514",
+      "id": 8
+    },
+    {
+      "title": "Spotify",
+      "description": "Techno",
+      "userId": "111693604608389073514",
+      "id": 9
+    }
+  ]
+}
